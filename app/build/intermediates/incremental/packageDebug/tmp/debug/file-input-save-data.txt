@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Wed May 17 10:42:57 IST 2023
+0.base=D\:\\phone stuffs\\Women-Safety-App-Android-Project-Source-Code-master\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+0.path=classes.dex
+count=1
+0.baseType=DIRECTORY
+0.set=DEX
